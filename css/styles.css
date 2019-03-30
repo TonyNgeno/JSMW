@@ -1,3 +1,32 @@
 h1{
   color: blue;
+  font-family: cursive;
+  font-size: 23sp;
+}
+
+*{
+  background-color: aqua;
+}
+
+p{
+  color: purple;
+  font-size: 25sp;
+  font-style: italic;
+  font-family: cursive;
+  font-weight: lighter;
+}
+
+aside{
+  color:white;
+  font-family: cursive;
+  font-weight: bold;
+  font-style: oblique;
+}
+ul{
+  font-family: cursive;
+  font-weight: bolder;
+}
+ol{
+  font-family: cursive;
+  font-weight: lighter;
 }
